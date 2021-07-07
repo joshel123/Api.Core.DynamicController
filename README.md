@@ -1,0 +1,2 @@
+# Api.Core.DynamicController
+None
